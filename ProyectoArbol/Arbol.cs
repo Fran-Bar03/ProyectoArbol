@@ -97,5 +97,63 @@ namespace ProyectoArbol
 
             }
         }
+
+
+
+        public void RecorridoPorNiveles()
+        {
+            // Usamos una cola para recorrer por niveles
+            Queue<Nodo> Cola = new Queue<Nodo>();
+            Cola.Enqueue(raiz);
+
+            int sumaRecorridos = 0;
+            double countRecorridos = 0;
+
+            // Recorremos todos los nodos por niveles
+            while (Cola.Count > 0)
+            {
+                Nodo nodoActual = Cola.Dequeue();
+                Nodo temp = raiz;
+                string recorrido = $"{temp.valor}";
+
+                // Encontrar la ruta desde la raíz hasta el nodo actual
+                while (temp != nodoActual)
+                {
+                    if (nodoActual.valor < temp.valor)
+                    {
+                        temp = temp.izq;
+                        recorrido = recorrido + $",{temp.valor}";
+                    }
+                    else
+                    {
+                        temp = temp.der;
+                        recorrido = recorrido + $",{temp.valor}";
+                    }
+                }
+
+                // Imprimir el recorrido y la cantidad de nodos
+                int cantidadNodos = recorrido.Split(',').Length;
+                Console.WriteLine($"{recorrido} = {cantidadNodos}");
+
+                sumaRecorridos = sumaRecorridos + cantidadNodos;
+                countRecorridos++;
+
+                // Agregar nodos hijos a la cola
+                if (nodoActual.izq != null) Cola.Enqueue(nodoActual.izq);
+                if (nodoActual.der != null) Cola.Enqueue(nodoActual.der);
+            }
+
+            // Cálculo del promedio
+            double promedio = sumaRecorridos / countRecorridos;
+            Console.WriteLine($"\nSuma total de recorridos: {sumaRecorridos}");
+            Console.WriteLine($"Cantidad de nodos: {countRecorridos}");
+            Console.WriteLine($"LRP {sumaRecorridos}/{countRecorridos}= {promedio:F3}");
+        }
     }
 }
+
+
+
+
+
+

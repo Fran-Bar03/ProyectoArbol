@@ -5,3 +5,10 @@ C:\Users\Hachi\source\repos\ProyectoArbol\ProyectoArbol\obj\Debug\ProyectoArbol.
 C:\Users\Hachi\source\repos\ProyectoArbol\ProyectoArbol\obj\Debug\ProyectoArbol.csproj.CoreCompileInputs.cache
 C:\Users\Hachi\source\repos\ProyectoArbol\ProyectoArbol\obj\Debug\ProyectoArbol.exe
 C:\Users\Hachi\source\repos\ProyectoArbol\ProyectoArbol\obj\Debug\ProyectoArbol.pdb
+C:\Users\Hachi\Desktop\ProyectoArbol\ProyectoArbol\bin\Debug\ProyectoArbol.exe.config
+C:\Users\Hachi\Desktop\ProyectoArbol\ProyectoArbol\bin\Debug\ProyectoArbol.exe
+C:\Users\Hachi\Desktop\ProyectoArbol\ProyectoArbol\bin\Debug\ProyectoArbol.pdb
+C:\Users\Hachi\Desktop\ProyectoArbol\ProyectoArbol\obj\Debug\ProyectoArbol.csproj.AssemblyReference.cache
+C:\Users\Hachi\Desktop\ProyectoArbol\ProyectoArbol\obj\Debug\ProyectoArbol.csproj.CoreCompileInputs.cache
+C:\Users\Hachi\Desktop\ProyectoArbol\ProyectoArbol\obj\Debug\ProyectoArbol.exe
+C:\Users\Hachi\Desktop\ProyectoArbol\ProyectoArbol\obj\Debug\ProyectoArbol.pdb
