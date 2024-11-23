@@ -133,7 +133,7 @@ namespace ProyectoArbol
 
                 // Imprimir el recorrido y la cantidad de nodos
                 int cantidadNodos = recorrido.Split(',').Length;
-                Console.WriteLine($"{recorrido} = {cantidadNodos}");
+                Console.WriteLine($"{recorrido} = {cantidadNodos}");  // impresion del recorrido
 
                 sumaRecorridos = sumaRecorridos + cantidadNodos;
                 countRecorridos++;
