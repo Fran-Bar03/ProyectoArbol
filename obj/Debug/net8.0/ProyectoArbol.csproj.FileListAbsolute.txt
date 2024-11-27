@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\bin\Debug\net8.0\ProyectoArbol.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\bin\Debug\net8.0\ProyectoArbol.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\bin\Debug\net8.0\ProyectoArbol.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\bin\Debug\net8.0\ProyectoArbol.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\bin\Debug\net8.0\ProyectoArbol.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\ProyectoArbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\ProyectoArbol.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\ProyectoArbol.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\ProyectoArbol.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\ProyectoArbol.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\refint\ProyectoArbol.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\ProyectoArbol.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\ProyectoArbol.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Estructura de datos\ProyectoArbol\obj\Debug\net8.0\ref\ProyectoArbol.dll
